@@ -1,4 +1,4 @@
-FROM fluent/fluentd:v0.14.13-onbuild
+FROM fluent/fluentd:v0.14.20-onbuild
 MAINTAINER Tatsuya Fukata <tatsuya.fukata@gmail.com>
 
 USER root
